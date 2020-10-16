@@ -1,4 +1,4 @@
-#Module for defining brute force mitigation
+#Manifest for defining brute force mitigation
 
 class security::bruteforce {
 
